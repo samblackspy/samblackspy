@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samblackspy
 - I'm a Software Consultant.
-- 👀 What I use currently: React.js, Typescript, GraphQL, Node.js, and PostgreSQL.
+- 👀 What I use currently: Rust, Vite, Typescript, GraphQL, Node.js, and PostgreSQL.
 - Checkout: https://cybersam.tech/
 - e-MAIL: thecybersam@outlook.com
 <!---
