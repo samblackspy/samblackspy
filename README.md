@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @samblackspy
-- I'm a Software Consultant.
-- 👀 What I use currently: Rust, Vite, Typescript, GraphQL, Node.js, and PostgreSQL.
-- Checkout: https://cybersam.tech/
-- e-MAIL: thecybersam@outlook.com
-<!---
-samblackspy/samblackspy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @samblackspy
+
+Backend & Web3 Engineer | Rust, TypeScript (Node.js), Solana
+
+I build high-performance backend systems, on-chain data pipelines, and Web3 dashboards.
+Experience with Solana, wallet integrations, blockchain indexing, WebRTC, FFmpeg-based media pipelines, and scalable APIs.
+
+Contact: thecybersam@outlook.com
